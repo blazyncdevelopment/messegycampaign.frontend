@@ -127,3 +127,6 @@
     @apply font-sans;
     }
 }
+a.blockbuilder-branding {
+    display: none !important;
+}
